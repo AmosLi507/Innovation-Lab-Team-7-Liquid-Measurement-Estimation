@@ -14,9 +14,3 @@ This project employs an EfficientNet-B0 model to classify liquid volumes in vari
 - PyTorch (or TensorFlow/Keras, depending on the chosen EfficientNet implementation)
 - CUDA-compatible GPU (recommended but not mandatory)
 - Additional packages as listed in `requirements.txt`
-
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/liquid-volume-classification.git
-   cd liquid-volume-classification
